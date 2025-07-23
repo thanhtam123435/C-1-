@@ -11,3 +11,4 @@ switch (ngay) {
     case 7: cout << "Thu bay"; break;
     default: cout << "Khong hop le";
 }
+// ở phần chuỗi của switch (...) có thể biến đổi dựa trên hàm khai chuỗi | float,int,char,...
